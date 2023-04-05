@@ -46,7 +46,17 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-        I started programming in the year of 2020.
+      Hello, my name is Cooper and I'm excited to share a little bit about myself on this portfolio website. I have a passion for coding and enjoy exploring new technologies, as well as playing with Rubik's Cubes in my free time. <br /><br />
+
+My journey into the world of computer programming began in school, and it didn't take long for me to realize that this was my calling. I landed my first job as a Security Analyst, and I found myself truly enjoying every moment of it. <br /><br />
+
+I am a firm believer in the importance of continuous learning, and the field of computer programming provides endless opportunities for growth and development. I am always on the lookout for new challenges to tackle, and I find great satisfaction in expanding my skill set and knowledge base. <br /><br />
+
+Thank you for taking the time to learn a little bit about me, and I look forward to sharing more about my experiences and accomplishments on this portfolio website.
+      </SectionText>
+      <SectionTitle>Timeline</SectionTitle>
+      <SectionText>
+      Over the past 3 years, my journey in coding has been a thrilling adventure of continuous learning and growth. From learning the basics in school to landing my first job as a Security Analyst, I've gained a wealth of experience in various programming languages and technologies.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
