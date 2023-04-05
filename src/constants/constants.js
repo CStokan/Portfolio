@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'ChatGPT Blog',
     description: "I used this ChatGPT blog to help practice some React but mainly work on my CSS",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'CSS'],
     source: 'https://gpt3-cooperstokan-iel4vvpeu-cstokan.vercel.app/',
     visit: 'https://gpt3-cooperstokan-iel4vvpeu-cstokan.vercel.app/',
