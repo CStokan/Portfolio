@@ -41,7 +41,7 @@ export const TimeLineData = [
   { year: 2020, text: 'Started School at Durham College', },
   { year: 2020, text: 'Learnt many programming languages and frameworks', },
   { year: 2021, text: 'Finished first year with a 4.7 GPA', },
-  { year: 2022, text: 'Finished school with a 4.62 GPA equivalent to a 4.0 GPA.', },
-  { year: 2022, text: 'Woked as a Jr. Cybersecurity Analyst', },
+  { year: 2022, text: 'Finished school with a 4.83 GPA equivalent to a 4.12 GPA.', },
+  { year: 2022, text: 'Worked as a Jr. Cybersecurity Analyst', },
   { year: 2022, text: 'Foccusing on landing a job as a Software Developer', },
 ];
