@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-      Hello, my name is Cooper and I'm excited to share a little bit about myself on this portfolio website. I have a passion for coding and enjoy exploring new technologies, as well as playing with Rubik's Cubes in my free time. <br /><br />
+      Hello, my name is Cooper and I'm excited to share a little bit about myself on this portfolio website. I have a passion for coding and enjoy exploring new technologies. <br /><br />
 
       My journey into the world of computer programming began in school, and it didn't take long for me to realize that this was my calling. I landed my first job as a Security Analyst, and I found myself truly enjoying every moment of it. <br /><br />
         
