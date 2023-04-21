@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Netflix Clone (WIP)',
     description: "I am currently working on a Netflix clone to further expand my knowledge on using APIs and TypeScript.",
-      image: '/images/4.jpg',
+      image: '/images/4.png',
       tags: ['React', 'CSS', 'MongoDB','Next.JS', 'TypeScript'],
     source: 'https://github.com/CStokan/Netflix-Clone',
     visit: 'https://github.com/CStokan/Netflix-Clone',
