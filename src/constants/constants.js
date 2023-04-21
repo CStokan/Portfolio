@@ -22,9 +22,18 @@ export const projects = [
     description: "I used this ChatGPT blog to help practice some React but mainly work on my CSS",
       image: '/images/3.png',
       tags: ['React', 'CSS'],
-    source: 'https://gpt3-cooperstokan-iel4vvpeu-cstokan.vercel.app/',
+    source: 'https://github.com/CStokan/gpt3-cooperstokan',
     visit: 'https://gpt3-cooperstokan-iel4vvpeu-cstokan.vercel.app/',
     id: 2,
+  },
+  {
+    title: 'Netflix Clone (WIP)',
+    description: "I am currently working on a Netflix clone to further expand my knowledge on using APIs and TypeScript.",
+      image: '/images/4.jpg',
+      tags: ['React', 'CSS', 'MongoDB','Next.JS', 'TypeScript'],
+    source: 'https://github.com/CStokan/Netflix-Clone',
+    visit: 'https://github.com/CStokan/Netflix-Clone',
+    id: 3,
   },
 ];
 

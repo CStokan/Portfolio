@@ -48,11 +48,11 @@ const Timeline = () => {
       <SectionText>
       Hello, my name is Cooper and I'm excited to share a little bit about myself on this portfolio website. I have a passion for coding and enjoy exploring new technologies, as well as playing with Rubik's Cubes in my free time. <br /><br />
 
-My journey into the world of computer programming began in school, and it didn't take long for me to realize that this was my calling. I landed my first job as a Security Analyst, and I found myself truly enjoying every moment of it. <br /><br />
-
-I am a firm believer in the importance of continuous learning, and the field of computer programming provides endless opportunities for growth and development. I am always on the lookout for new challenges to tackle, and I find great satisfaction in expanding my skill set and knowledge base. <br /><br />
-
-Thank you for taking the time to learn a little bit about me, and I look forward to sharing more about my experiences and accomplishments on this portfolio website.
+      My journey into the world of computer programming began in school, and it didn't take long for me to realize that this was my calling. I landed my first job as a Security Analyst, and I found myself truly enjoying every moment of it. <br /><br />
+        
+      I am a firm believer in the importance of continuous learning, and the field of computer science provides endless opportunities for growth and development. I am always on the lookout for new challenges to tackle, and I find great satisfaction in expanding my skill set and knowledge base. <br /><br />
+        
+      Thank you for taking the time to learn a little bit about me, and I look forward to sharing more about my experiences and accomplishments on this portfolio website.
       </SectionText>
       <SectionTitle>Timeline</SectionTitle>
       <SectionText>
